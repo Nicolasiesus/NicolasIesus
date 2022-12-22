@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, meu nome é Nícolas Iesus!👋👋
 
-<!--
-**Nicolasiesus/NicolasIesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻Atualmente sou estudante de Desenvolvimento Full Stack na Growdev.
+## Estou estudando:
+<details> <summary>Front-end</summary>
+<ul>
+  <li>
+ HTML  
+ </li>
+   <li>
+   CSS
+ </li>
+    <li>
+   JAVASCRIPT
+ </li>
+    <li>
+   GIT
+ </li>
+ 
+ </ul>
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
