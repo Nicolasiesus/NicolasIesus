@@ -1,6 +1,15 @@
-# Olá, meu nome é Nícolas Iesus!👋👋
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Ol%C3%A1a%2C+tudo+bom%3F+%F0%9F%91%8B%F0%9F%91%8B;Meu+nome+%C3%A9+N%C3%ADcolas+Iesus+Alves!%F0%9F%98%8E;Prazer+em+te+conhecer!+%F0%9F%98%8A" alt="Typing SVG" /></a>
+</h1>
 
-## 👨‍💻Atualmente sou estudante de Desenvolvimento Full Stack na Growdev.
+<p align="center">👨‍💻Meu nome é Nícolas, estou estudando para me tornar um desenvolvedor full stack</p>
+<p align="center">
+    🎓Sou da 13<sup>a</sup> turma do programa Starter da Growdev</br>
+    💻Sou um verdadeiro amante em codar, amo quebrar a cabeça com esses códigos</br>
+    📚Atualmente estou estudando mais sobre HTML e CSS</br>
+    🎮Também estudo modelagem 3D no Blender para a produção de assets
+
+</p>
 
 
 ## 👑Github Estatísticas:
