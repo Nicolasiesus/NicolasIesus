@@ -1,15 +1,19 @@
 # Olá, meu nome é Nícolas Iesus!👋👋
 
 ## 👨‍💻Atualmente sou estudante de Desenvolvimento Full Stack na Growdev.
+  ♦Meu nome é Nícolas Iesus Alves e estou estudando programação na Growdev, 
+ pretendo me tornar </br> um desenvolvedor Full Stack e no momento, front-end é o meu favorito. 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="350px" width="250px" align="top" alt="Computador iuriCode">
 
 ## 👑Github Estatísticas:
-</div>
-  <a href="https://github.com/NicolasIesus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasIesus&theme=dracula&hide_langs_below=1" />
+
+<a href="https://github.com/Nicolasiesus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasiesus&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/NicolasIesus" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasIesus&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/Nicolasiesus">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicolasiesus&show_icons=true&theme=dracula&line_height=27" alt="Nicolas Iesus Alves github stats"/>
 </a>
 
 
