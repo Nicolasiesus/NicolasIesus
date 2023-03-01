@@ -41,7 +41,7 @@
 
 <div align="center"> 
 
-![Snake animation](https://github.com/NicolasIesus/NicolasIesus/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Nicolasiesus/Nicolasiesus/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📚Estou estudando:
